@@ -4,16 +4,16 @@
 
 - ログイン
 
-![](/readme-image/login.png)
+![](https://github.com/TomokiAburatani/laboratory-management/tree/master/readme-images/login.png)
 
 - ダッシュボード
 
-![](/readme-image/dashboard.png)
+![](/readme-images/dashboard.png)
 
 - 書籍の貸し出し
 
-![](/readme-image/add-book.png)
+![](/readme-images/add-book.png)
 
-![](/readme-image/add-book2.png)
+![](/readme-images/add-book2.png)
 
-![](/readme-image/add-book3.png)
+![](/readme-images/add-book3.png)
