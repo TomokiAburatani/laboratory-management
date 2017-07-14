@@ -4,7 +4,7 @@
 
 - ログイン
 
-![](https://github.com/TomokiAburatani/laboratory-management/tree/master/readme-images/login.png)
+![]/readme-images/login.png)
 
 - ダッシュボード
 
